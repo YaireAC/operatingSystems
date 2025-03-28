@@ -9,7 +9,7 @@ The program should:
 - Creates a new directory with a randomly generated name.
 - Generates and writes processed movie data into new files within the created directory.
 
-### Columns in the CSV:
+**Columns in the CSV:**
 - **Title**: A string representing the movie title (Example: `Iron Man 2`).
 - **Year**: A four-digit integer representing the release year (Example: `2010`).
 - **Languages**: Enclosed in `[]`, with multiple values separated by `;`. Maximum 5 languages, each up to 20 characters (Example: `[English;French]`).
