@@ -11,13 +11,6 @@ The program performs the following tasks:
 - Creates a new directory with a randomly generated name.
 - Generates and writes processed movie data into new files within the created directory.
 
-## CSV File Format
-
-The program processes CSV files with the following format:
-- The first row contains **column headers**.
-- Each subsequent row represents a **movie entry**.
-- **Commas** are used as delimiters, but do not appear within values.
-
 ### Columns in the CSV:
 - **Title**: A string representing the movie title (Example: `Iron Man 2`).
 - **Year**: A four-digit integer representing the release year (Example: `2010`).
